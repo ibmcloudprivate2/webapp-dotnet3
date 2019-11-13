@@ -55,6 +55,7 @@ netstat -vanp tcp | grep <port>
 ```
 
 
-# resources
+# Resources
 
 - Docker images for [ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/host-and-deploy/docker/building-net-docker-images?view=aspnetcore-3.0)
+- helm demo chart : https://ibmcloudprivate2.github.io/mycharts/
